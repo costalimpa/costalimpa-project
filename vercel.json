@@ -1,7 +1,6 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "project": "costalimpa",
   "rewrites": [
     {
       "source": "/(.*)",
